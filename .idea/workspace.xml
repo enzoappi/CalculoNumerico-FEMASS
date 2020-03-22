@@ -2,16 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2c4360-7261-4e8c-b111-f32f017c1b8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/creation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/creation/matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/creation/vector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/newton/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/newton/difdiv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/results/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/results/mtx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/results/polynome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/DiferencasDivididas.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_Metodo_Diferencas_Divididas__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Raizes_de_funcoes_polinomiais__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Raizes_de_funcoes_polinomiais__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Raizes_de_funcoes_polinomiais__EnzoAppi/poli_function_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Raizes_de_funcoes_polinomiais__EnzoAppi/poli_function_root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Metodo_Bissecao__EnzoAppi/bisection.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Metodo_Bissecao__EnzoAppi/bisection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Metodo_Bissecao__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Metodo_Bissecao__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Metodo_Falsa_Posicao_EnzoAppi/false_position.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Metodo_Falsa_Posicao_EnzoAppi/false_position.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Metodo_Falsa_Posicao_EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Metodo_Falsa_Posicao_EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Metodo_Newton-Rephson__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Metodo_Newton-Rephson__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Metodo_Newton-Rephson__EnzoAppi/newton_rephson.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Metodo_Newton-Rephson__EnzoAppi/newton_rephson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Metodo_Secante__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Metodo_Secante__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Metodo_Secante__EnzoAppi/secant.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Metodo_Secante__EnzoAppi/secant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/linecolumndominant/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/linecolumndominant/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/sessenfeld/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/sessenfeld/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/matrix/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/matrix/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/vector/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/vector/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/gauss_seidel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/gauss_seidel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/five_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/five_points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/three_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/three_points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/original/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/original/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/original/start_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/original/start_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/integral/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/integral/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/original/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/original/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
