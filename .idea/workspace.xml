@@ -2,35 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2c4360-7261-4e8c-b111-f32f017c1b8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1_Raizes_de_funcoes_polinomiais__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Raizes_de_funcoes_polinomiais__EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Raizes_de_funcoes_polinomiais__EnzoAppi/poli_function_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Raizes_de_funcoes_polinomiais__EnzoAppi/poli_function_root.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Metodo_Bissecao__EnzoAppi/bisection.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Metodo_Bissecao__EnzoAppi/bisection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Metodo_Bissecao__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Metodo_Bissecao__EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Metodo_Falsa_Posicao_EnzoAppi/false_position.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Metodo_Falsa_Posicao_EnzoAppi/false_position.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Metodo_Falsa_Posicao_EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Metodo_Falsa_Posicao_EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Metodo_Newton-Rephson__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Metodo_Newton-Rephson__EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Metodo_Newton-Rephson__EnzoAppi/newton_rephson.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Metodo_Newton-Rephson__EnzoAppi/newton_rephson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Metodo_Secante__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Metodo_Secante__EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Metodo_Secante__EnzoAppi/secant.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Metodo_Secante__EnzoAppi/secant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/linecolumndominant/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/linecolumndominant/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/sessenfeld/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/convergence_test/sessenfeld/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/matrix/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/matrix/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/vector/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/creation/vector/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/utility/gauss_seidel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Metodo_Gauss-Seidel__EnzoAppi/utility/gauss_seidel/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/five_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/five_points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/derivative/three_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/derivative/three_points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/original/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/original/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Metodo_Derivada_Numerica__EnzoAppi/original/start_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Metodo_Derivada_Numerica__EnzoAppi/original/start_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/integral/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/integral/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/original/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Metodo_Integral_Numerica_Trapezoidal__EnzoAppi/original/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/error/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/error/residual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/error/sqr_res.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/polynomial/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/polynomial/terms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/sum/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/sum/acumulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/creation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/creation/invmatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/creation/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/creation/vector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/presentation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/presentation/polyfun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/presentation/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/presentation/systems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/MinimosQuadrados.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +51,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/presentation" />
+      <recent name="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/presentation/system" />
+      <recent name="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/sum" />
+      <recent name="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/calculation/error" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FEMASS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +94,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_Metodo_Gauss-Seidel__EnzoAppi/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FEMASS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Metodo_Minimos_Quadrados__EnzoAppi/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -220,22 +239,22 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="780" y="279" width="501" height="520" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1584739223546" />
-    <state width="1567" height="260" key="GridCell.Tab.0.bottom" timestamp="1584914835303">
+    <state width="1567" height="260" key="GridCell.Tab.0.bottom" timestamp="1584931844208">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1567" height="260" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1584914835303" />
-    <state width="1567" height="260" key="GridCell.Tab.0.center" timestamp="1584914835303">
+    <state width="1567" height="260" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1584931844208" />
+    <state width="1567" height="260" key="GridCell.Tab.0.center" timestamp="1584931844207">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1567" height="260" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1584914835303" />
-    <state width="1567" height="260" key="GridCell.Tab.0.left" timestamp="1584914835302">
+    <state width="1567" height="260" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1584931844207" />
+    <state width="1567" height="260" key="GridCell.Tab.0.left" timestamp="1584931844206">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1567" height="260" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1584914835302" />
-    <state width="1567" height="260" key="GridCell.Tab.0.right" timestamp="1584914835303">
+    <state width="1567" height="260" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1584931844206" />
+    <state width="1567" height="260" key="GridCell.Tab.0.right" timestamp="1584931844207">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1567" height="260" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1584914835303" />
+    <state width="1567" height="260" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1584931844207" />
     <state width="1567" height="319" key="GridCell.Tab.1.bottom" timestamp="1584741948094">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
